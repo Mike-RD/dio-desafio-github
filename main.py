@@ -1,0 +1,1 @@
+print("Queee dar print em Hello Word, aqui é aprender Git mesmo!!!")
